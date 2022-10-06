@@ -1,4 +1,4 @@
-# COMP127 Final Project: The hardest Java version of diep.io
+# COMP127 Final Project: A Java version of diep.io
 
 #### Project Contributors: Quang Nguyen, Andrew Nguyen
 
